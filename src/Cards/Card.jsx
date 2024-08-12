@@ -126,7 +126,7 @@ const Card = () => {
               <h1 data-aos="fade-up" className=" fw-bold fs-2 mb-4">
               Remark - Job & Recruiter App
               </h1>
-              <p data-aos="fade-up" className=" fs-6">
+              <p style={{lineHeight: "30px",wordSpacing: "2px"}} data-aos="fade-up" >
                 India's 1st AI-Powered Job Portal Remark is a product of Visko
                 HR Pvt Ltd. The portal aims to revolutionize the recruitment
                 process by providing a seamless and efficient platform for job
@@ -134,7 +134,7 @@ const Card = () => {
                 bridge the gap in hiring and create new opportunities for
                 everyone with our innovative and state-of-the-art approach.
               </p>
-              <p data-aos="fade-up" className=" fs-6">
+              <p style={{lineHeight: "30px",wordSpacing: "2px"}}  data-aos="fade-up" >
                 Remark has the best AI technology and inclusive design, which
                 makes it easy for everyone to navigate through the app
                 throughout their hiring journey. Leveraged with mind-blowing AI
@@ -142,7 +142,7 @@ const Card = () => {
                 more, Remark is transforming the recruitment process like never
                 before.
               </p>
-              <p data-aos="fade-up" className=" fs-6">
+              <p style={{lineHeight: "30px",wordSpacing: "2px"}} data-aos="fade-up" >
                 In a short span, Remark is in the league of becoming the best
                 job portal in India due to its innovative job search, smooth and
                 user-friendly interface, data safety and privacy, and attractive
@@ -152,11 +152,11 @@ const Card = () => {
               </p>
               <div className=" d-flex justify-content-center  ">
                 <button type="button" class="btn  btn-lg fs-5 " style={{backgroundColor:"#115E59" ,color:"white"}}>
-                  <a href="https://apps.apple.com/in/app/remark-job-recruiter-app/id6475642568" className=" text-light fw-semibold fs-5">  Download from Appstore <i class="fa fa-arrow-right" style={{color:"white"}}></i></a>
+                  <a href="https://apps.apple.com/in/app/remark-job-recruiter-app/id6475642568" className=" text-light fw-semibold fs-5">  Download <i class="ri-google-play-line text-white"></i></a>
               
                 </button>
                 <button type="button" class="btn  btn-lg " style={{marginLeft:"5px",backgroundColor:"#115E59",color:"white"}}>
-                <a href="https://play.google.com/store/apps/details?id=com.remark.viskohr" className=" text-light fw-semibold fs-5">  Download from Playstore <i class="fa fa-arrow-right" style={{color:"white"}}></i></a>
+                <a href="https://play.google.com/store/apps/details?id=com.remark.viskohr" className=" text-light fw-semibold fs-5">  Download <i class="ri-app-store-line text-white" ></i></a>
                 </button>
               </div>
             </div>

@@ -9,10 +9,10 @@ const Topsection = () => {
 <div class="container " >
   <div class="row ">
     <div class="col-lg-6 d-flex flex-column justify-content-center fadeInLeft">
-      <h1 data-aos="fade-up">Visko HR Pvt Ltd </h1>
-      <h2 data-aos="fade-up" data-aos-delay="400">
-      Best known for making modern technology applications, Visko HR Pvt Ltd constantly works on developing cutting-edge and innovative job search applications to make recruitment seamless for employers and candidates
-              </h2>
+      <h1 data-aos="fade-up">Visko Hr Private Limited </h1>
+      <h5 data-aos="fade-up" data-aos-delay="400" style={{lineHeight: "30px", wordSpacing: "2px"}}>
+      Best known for making modern technology applications, Visko HR private limited constantly works on developing cutting-edge and innovative job search applications to make recruitment seamless for employers and candidates.
+              </h5>
       <div data-aos="fade-up" data-aos-delay="600">
         <div class="text-center text-lg-start">
           <a href="https://apps.apple.com/in/app/remark-job-recruiter-app/id6475642568" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center" style={{backgroundColor:"#115E59"}}>

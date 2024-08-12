@@ -69,7 +69,7 @@ const Features = () => {
 
             <div class="row">
               <div
-                class="col-xl-4 text-center"
+                class="col-xl-4 text-center align-self-center"
                 data-aos="fade-right"
                 data-aos-delay="100"
               >
@@ -77,7 +77,6 @@ const Features = () => {
                   src={imgs2}
                   class="img-fluid p-4"
                   alt=""
-                  style={{ height: "550px", width: "9000px" }}
                 />
               </div>
 
@@ -87,7 +86,7 @@ const Features = () => {
                     <i class="ri-line-chart-line"></i>
                     <div>
                       <h4>AI confidence calculation</h4>
-                      <p>
+                      <p style={{lineHeight: "30px",wordSpacing: "2px"}}>
                         Being one of its kind, our AI-based software will
                         analyze facial expressions, tone of voice, and other
                         non-verbal cues to provide insights into a
@@ -106,7 +105,7 @@ const Features = () => {
                     <i class="ri-stack-line"></i>
                     <div>
                       <h4>Interview preparation for candidates</h4>
-                      <p>
+                      <p style={{lineHeight: "30px",wordSpacing: "2px"}}>
                         With the help of our AI-based software, candidates can
                         interact with a bot which will help them with answering
                         of interview related questions. This bot is created in a
@@ -124,7 +123,7 @@ const Features = () => {
                     <i class="ri-brush-4-line"></i>
                     <div>
                       <h4>AI generated job and bio description</h4>
-                      <p>
+                      <p style={{lineHeight: "30px",wordSpacing: "2px"}}>
                         Candidates often struggle writing a complete bio for
                         themselves to be put up on a job portal. In the same
                         manner, recruiters struggle to put up complete
@@ -146,7 +145,7 @@ const Features = () => {
                         Audio and Video Interview schedulation through
                         application:
                       </h4>
-                      <p>
+                      <p style={{lineHeight: "30px",wordSpacing: "2px"}}>
                         Through our mobile applications, employers and employees
                         can both schedule personal interviews at their
                         convenience. Our technical team has built up a robust
