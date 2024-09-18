@@ -9,7 +9,7 @@ const Topsection = () => {
 <div class="container " >
   <div class="row ">
     <div class="col-lg-6 d-flex flex-column justify-content-center fadeInLeft">
-      <h1 data-aos="fade-up">Visko Hr Private Limited </h1>
+      <h1 data-aos="fade-up">Visko HR Private Limited </h1>
       <h5 data-aos="fade-up" data-aos-delay="400" style={{lineHeight: "30px", wordSpacing: "2px"}}>
       Best known for making modern technology applications, Visko HR private limited constantly works on developing cutting-edge and innovative job search applications to make recruitment seamless for employers and candidates.
               </h5>
