@@ -71,9 +71,9 @@ const Navbar = () => {
             <li>
               <a
                 className="get-started-btn scrollto text-decoration-none text-light justify-content-center mr-2 "
-                href="https://play.google.com/store/apps/details?id=com.remark.viskohr"
+                href="https://remarkhr.com/" 
               >
-                Download App
+                Get Started
               </a>
             </li>
           </ul>
